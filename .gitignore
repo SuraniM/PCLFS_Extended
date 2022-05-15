@@ -1,0 +1,10 @@
+.idea/
+venv/
+__pycache__/
+*.whl
+*.csv
+*.zip
+telcom/images
+*.xlsx
+*.xls
+
